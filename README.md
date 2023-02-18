@@ -11,7 +11,7 @@ Here are some of my latest projects:
 
 1.finalCapstone https://github.com/issahus-dev/FinalCapstone - the app is Inventory management system which provides the end user with options to alter inventory.
 
-2.Capstone 4(Link to the Project) - the program allows administrators to create and manage user accounts as well as provides advanced analytical capabilities, allowing administrators to request and track data on the life cycle of tasks
+2.Capstone 3 https://github.com/issahus-dev/Capstone3 - the program allows administrators to create and manage user accounts as well as provides advanced analytical capabilities, allowing administrators to request and track data on the life cycle of tasks
  ## Skills
 Here are some of the skills I've been working on:
 
